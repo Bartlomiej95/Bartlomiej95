@@ -16,7 +16,11 @@ Mam na imię Bartek i moją pasją jest programowanie. Aktualnie pracuje w spedy
 
 ## Projekty 
 
-1. HomePantry - https://bartlomiej95.github.io/HomePantry/ 
+1. MyWebsite
+
+Moja strona portfolio - https://bartlomiej95.github.io/MyWebsite/
+
+2. HomePantry - https://bartlomiej95.github.io/HomePantry/ 
 
 Projekt aplikacji spiżarnia domowa. Wyobraź sobie, że jesteś właśnie w sklepie na zakupach i nie pamiętasz co masz w domowej spiżarni czy lodówce ? Chyba każdy kiedyś tak miał :) W takiej sytuacji z pomocą przychodzi aplikacja HomePantry, która odzwierciedla aktualny stan Twojej spiżarni i na podstawie ustawionych przez Ciebie wcześniej limitów, tworzy aktualną listę zakupów do zrobienia. 
 
@@ -28,7 +32,7 @@ Projekt napisany w React. Użyłem również:
 - HOC
 - Context API
 
-2. ZdrowieNa100% - https://hungry-jones-1c9e3d.netlify.app/
+3. ZdrowieNa100% - https://hungry-jones-1c9e3d.netlify.app/
 
 Projekt bloga o tematyce zdrowia. Użyte technologie:
 
@@ -39,7 +43,7 @@ Projekt bloga o tematyce zdrowia. Użyte technologie:
 - styled-components
 - responsywność (mobile-first)
 
-3. Inne projekty w JavaScript
+4. Inne projekty w JavaScript
 
 - Kalkulator - https://bartlomiej95.github.io/Calculator/
 - Gra saper - https://bartlomiej95.github.io/Minesweeper/
