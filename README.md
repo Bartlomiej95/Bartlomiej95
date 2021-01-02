@@ -16,9 +16,9 @@ Mam na imię Bartek i moją pasją jest programowanie. Aktualnie pracuje w spedy
 
 ## Projekty 
 
-1. MyWebsite
+1. MyWebsite - https://bartlomiej95.github.io/MyWebsite/
 
-Moja strona portfolio - https://bartlomiej95.github.io/MyWebsite/
+Moja strona portfolio 
 
 2. HomePantry - https://bartlomiej95.github.io/HomePantry/ 
 
