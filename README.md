@@ -16,11 +16,26 @@ Mam na imię Bartek i moją pasją jest programowanie. Aktualnie pracuje w spedy
 
 ## Projekty 
 
-1. MyWebsite - https://bartlomiej95.github.io/MyWebsite/
+1. Planner - https://planer-app.netlify.app/ - w trakcie realizacji
+
+Aktualnie pracuję nad projektem aplikacji Planner - czyli narzędzia pomagającego zarządzać projektami oraz zadaniami dla pewnej grupy osób. 
+Pierwszy projekt w którym używam zarówno technologii frontendowych - takich jak React, oraz backendowych - Express i Nodejs. Skorzystałem również z nierelacyjnej bazy danych MongoDB. Aby móc w pełni zobaczyć możliwości aplikacji trzeba się zalogować. Przykładowe dane logowania:<br/>
+
+<strong>Użytkownik:</strong>
+email: a.andrzejewski@afirma.com
+hasło: aleand <br/>
+<strong> Admin: </strong> email: j.kowalski@afirma.com hasło: jankow
+
+Po bardziej szczegółowy opis oraz dane do logowania innych użytkowników aplikacji zapraszam do opisu repozytorium części frontendowej
+
+Link do repozytorium (część frontendowa) - https://github.com/Bartlomiej95/Planner <br/>
+Link do repozytorium (część backendowa) - https://github.com/Bartlomiej95/Planner-backend
+
+2. MyWebsite - https://bartlomiej95.github.io/MyWebsite/
 
 Moja strona portfolio 
 
-2. HomePantry - https://bartlomiej95.github.io/HomePantry/ 
+3. HomePantry - https://bartlomiej95.github.io/HomePantry/ 
 
 Projekt aplikacji spiżarnia domowa. Wyobraź sobie, że jesteś właśnie w sklepie na zakupach i nie pamiętasz co masz w domowej spiżarni czy lodówce ? Chyba każdy kiedyś tak miał :) W takiej sytuacji z pomocą przychodzi aplikacja HomePantry, która odzwierciedla aktualny stan Twojej spiżarni i na podstawie ustawionych przez Ciebie wcześniej limitów, tworzy aktualną listę zakupów do zrobienia. 
 
@@ -32,7 +47,7 @@ Projekt napisany w React. Użyłem również:
 - HOC
 - Context API
 
-3. ZdrowieNa100% - https://hungry-jones-1c9e3d.netlify.app/
+4. ZdrowieNa100% - https://hungry-jones-1c9e3d.netlify.app/
 
 Projekt bloga o tematyce zdrowia. Użyte technologie:
 
@@ -43,7 +58,7 @@ Projekt bloga o tematyce zdrowia. Użyte technologie:
 - styled-components
 - responsywność (mobile-first)
 
-4. Inne projekty w JavaScript
+5. Inne projekty w JavaScript
 
 - Kalkulator - https://bartlomiej95.github.io/Calculator/
 - Gra saper - https://bartlomiej95.github.io/Minesweeper/
