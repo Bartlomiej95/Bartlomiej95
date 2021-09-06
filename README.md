@@ -63,7 +63,11 @@ Projekt bloga o tematyce zdrowia. Użyte technologie:
 - Kalkulator - https://bartlomiej95.github.io/Calculator/
 - Gra saper - https://bartlomiej95.github.io/Minesweeper/
 
+## Co aktualnie robię ? 
 
+1. Uczę się backendu ( Node.js, Express, Bazy danych - MySQL & mongoDB ) w kursie megaK - szczegóły <a href="https://www.megak.pl/"> tutaj </a>
+
+2. Samodzielnie uczę się testowania w Jest oraz Cypress - pisanie testów jednostkowych, integracyjnych oraz E2E
 
 <!--
 **Bartlomiej95/Bartlomiej95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
