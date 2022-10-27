@@ -1,25 +1,27 @@
 <h1 align="center"> Bartłomiej Panfil </h1>
 <h3 align="center"> Junior Front-End Developer </h3>
+<h5 align="center"> https://bartlomiej95.github.io/MyWebsite/ </h5>
 
-## Cześć ! Miło, że jesteś !
-Mam na imię Bartek i moją pasją jest programowanie. Aktualnie pracuje w spedycji morskiej, jednak swoją przyszłość wiążę właśnie z branżą IT, a dokładniej front-end developmentem.
+## Cześć ! 
+Witam Cię na moim profilu. Mam na imię Bartek i ukończyłem studia matematyczne na Politechnice Gdańskiej. Aktualnie pracuje w spedycji morskiej, jednak moją pasją jest programowanie i swoją przyszłość wiążę właśnie z branżą IT, a dokładniej web developmentem.
 
 ## Znane technologie
 
 - HTML5 ( w tym metodologia BEM )
 - CSS3 ( w tym preprocesor SASS )
-- JavaScript - EcmaScript6 
-- React
-- Podstawowa znajomość Adobe Xd
+- JavaScript 
+- React ( w tym Redux oraz styled-components )
+- Express.js 
+- Nest.js
 - Znajomość systemu kontroli wersji GIT
 - Gatsby 
+- MongoDB
 
 ## Projekty 
 
-1. Planner - https://planer-app.netlify.app/ - w trakcie realizacji
+1. Planner - https://planer-app.netlify.app/ 
 
-Aktualnie pracuję nad projektem aplikacji Planner - czyli narzędzia pomagającego zarządzać projektami oraz zadaniami dla pewnej grupy osób. 
-Pierwszy projekt w którym używam zarówno technologii frontendowych - takich jak React, oraz backendowych - Express i Nodejs. Skorzystałem również z nierelacyjnej bazy danych MongoDB. Aby móc w pełni zobaczyć możliwości aplikacji trzeba się zalogować. Przykładowe dane logowania:<br/>
+Planner - narzędzie pomagające zarządzać projektami oraz zadaniami w firmie. Pierwszy projekt w którym używam zarówno technologii frontendowych - takich jak React, oraz backendowych - Express i Nodejs. Skorzystałem również z nierelacyjnej bazy danych MongoDB. Aby móc w pełni zobaczyć możliwości aplikacji trzeba się zalogować. Przykładowe dane logowania:<br/>
 
 <strong>Użytkownik:</strong>
 email: a.andrzejewski@afirma.com
@@ -31,9 +33,24 @@ Po bardziej szczegółowy opis oraz dane do logowania innych użytkowników apli
 Link do repozytorium (część frontendowa) - https://github.com/Bartlomiej95/Planner <br/>
 Link do repozytorium (część backendowa) - https://github.com/Bartlomiej95/Planner-backend
 
-2. MyWebsite - https://bartlomiej95.github.io/MyWebsite/
+<div>
+  <img src="https://user-images.githubusercontent.com/30089869/198391611-e3dbb4c3-627e-4eb5-aa21-51ba6bd16654.PNG" width="220px" height="250px"/>
+  <img src="https://user-images.githubusercontent.com/30089869/198391669-2d4ceb88-5867-4809-9616-b7e670e5918f.PNG" width="220px" height="250px"/>
+  <img src="https://user-images.githubusercontent.com/30089869/198391697-f025969f-08a4-4fbb-a2dc-bd993cea463c.PNG" width="220px" height="250px"/>
+  <img src="https://user-images.githubusercontent.com/30089869/198391741-1f4f0ff2-c0f0-4348-845b-5b1b5decdb03.PNG" width="220px" height="250px"/>
+</div>
+<br/>
+<br/>
+2. MegaK HeadHunter 
 
-Moja strona portfolio 
+Grupowy projekt na zakończenie kursu megaK, w którym pracowaliśmy zgodnie z frameworkiem Scrum. Projekt dotyczył stworzenia platformy dzięki której rekruterzy będą mogli szukać jak najlepszych programistów do swoich firm. Na platformie znajdują się konta kandydatów z ocenami, cv, portfolio oraz wymaganiami tak aby HR mógł zaprosić do rozmowy osoby o konkretnych umiejętnościach. 
+Projekt trwał miesiąc i składał się z 4 sprintów. W swojej grupie byłem odpowiedzialny za pracę na back-endzie oraz dodatkowo przyjąłem rolę Scrum-Mastera.
+
+Link do repozytorium (część frontendowa) - https://github.com/Bartlomiej95/GR12-HeadHunter-frontend <br/>
+Link do repozytorium (część backendowa) - https://github.com/Bartlomiej95/GR12-HeadHunter-backend
+
+<br/>
+<br/>
 
 3. HomePantry - https://bartlomiej95.github.io/HomePantry/ 
 
@@ -47,6 +64,9 @@ Projekt napisany w React. Użyłem również:
 - HOC
 - Context API
 
+<br/>
+<br/>
+
 4. ZdrowieNa100% - https://hungry-jones-1c9e3d.netlify.app/
 
 Projekt bloga o tematyce zdrowia. Użyte technologie:
@@ -57,17 +77,6 @@ Projekt bloga o tematyce zdrowia. Użyte technologie:
 - DatoCMS
 - styled-components
 - responsywność (mobile-first)
-
-5. Inne projekty w JavaScript
-
-- Kalkulator - https://bartlomiej95.github.io/Calculator/
-- Gra saper - https://bartlomiej95.github.io/Minesweeper/
-
-## Co aktualnie robię ? 
-
-1. Uczę się backendu ( Node.js, Express, Bazy danych - MySQL & mongoDB ) w kursie megaK - szczegóły <a href="https://www.megak.pl/"> tutaj </a>
-
-2. Samodzielnie uczę się testowania w Jest oraz Cypress - pisanie testów jednostkowych, integracyjnych oraz E2E
 
 <!--
 **Bartlomiej95/Bartlomiej95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
